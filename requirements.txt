@@ -1,0 +1,15 @@
+# editor
+jupyterlab
+
+# train
+pandas
+numpy
+tensorflow
+keras
+scikit-learn
+matplotlib
+#tensorflowjs
+
+# play
+pysimplegui
+
