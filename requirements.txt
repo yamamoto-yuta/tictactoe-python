@@ -13,3 +13,6 @@ matplotlib
 # play
 pysimplegui
 
+# exe
+PyInstaller
+
