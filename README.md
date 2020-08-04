@@ -2,4 +2,4 @@
 - AIとOXゲームで対戦できるプログラム
 - AI部分にはNeuralNetworkを利用
 
-![screenshot](README.md/screenshot.png)
+![screenshot](./README-img/screenshot.png)
